@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlessandroDalponte;
+- 👋 Hi, I’m @Alessandro Dalponte;
 - 🌱 I’m currently learning Python and Machine Learning;
 - 💞️ I’m looking to collaborate on different projects;
 - 📫 How to reach me: adalponte0@gmail.com;
